@@ -13,7 +13,7 @@ class MainApp extends StatelessWidget {
   Widget build(BuildContext context) {
     return MaterialApp(
       debugShowCheckedModeBanner: false,
-      title: 'UAS Mobile 2 bersama azlansaja',
+      title: 'UAS Mobile 2 bersama azlansaja sdas',
       theme: ThemeData(
         colorSchemeSeed: Colors.greenAccent,
         brightness: Brightness.dark,
